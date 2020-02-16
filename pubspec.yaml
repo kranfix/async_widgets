@@ -1,11 +1,11 @@
 name: async_widgets
 description: A new Flutter package project.
 version: 0.0.1
-author:
-homepage:
+author: Frank Moreno (@kranfix)
+homepage: https://github.com/kranfix/async_widgets
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: ">=2.7.0 <3.0.0"
 
 dependencies:
   flutter:
